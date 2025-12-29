@@ -37,3 +37,4 @@ newsgenie-agent/
 - **Modular components:** Ingestion, reasoning, and synthesis are separated for extensibility and testing.
 - **External data grounding:** GDELT provides real-world signals to reduce hallucination and improve relevance.
 - **Prompt templating:** Prompts are centralized to support iteration and evaluation.
+
